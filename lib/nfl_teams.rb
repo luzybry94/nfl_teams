@@ -7,7 +7,7 @@ require 'open-uri'
 require_relative "nfl_teams/cli"
 require_relative "nfl_teams/scraper"
 require_relative "nfl_teams/team"
-require_relative "nfl_teams/schedule"
+require_relative "nfl_teams/game"
 
 
 module NflTeams

@@ -1,5 +1,5 @@
-class NflTeams::Schedule
-    attr_accessor :team, :week, :opponent, :date, :location
+class NflTeams::Game
+    attr_accessor :team, :week, :opponent, :date, :location, :away
     @@all = []
 
     def initialize
