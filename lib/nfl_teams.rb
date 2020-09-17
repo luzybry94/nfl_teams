@@ -7,6 +7,8 @@ require 'open-uri'
 require_relative "nfl_teams/cli"
 require_relative "nfl_teams/scraper"
 require_relative "nfl_teams/team"
+require_relative "nfl_teams/schedule"
+
 
 module NflTeams
   class Error < StandardError; end
