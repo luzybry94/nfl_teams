@@ -1,10 +1,13 @@
-# NflTeams
+# Nfl Teams
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/nfl_teams`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to NFL Teams! The one and only place to find everything there is to know about your favorite football team! This app presents you a list of all 32 NFL teams and allows you to select your team of interest to see further important information about the team. We've got everything from their record, coach, owners and even remaining schedule. Folllow the instructions below and enjoy! All feedback is much appreciated! 
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
+
+To start having fun with NFL Teams, you will need to clone this repository onto your local machine by copying your preferred cloning URL (found under the "Code" dropdown). Open up your terminal, `cd` to wherever you'd like to store this repo and type `git clone <paste cloning url here>` and hit enter.
+
+<!-- ## Gem Installation
 
 Add this line to your application's Gemfile:
 
@@ -18,11 +21,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install nfl_teams
+    $ gem install nfl_teams -->
 
 ## Usage
 
-TODO: Write usage instructions here
+Once you've succesfully installed this repo onto your computer, make sure you are currently in the repo folder (you should see something like `nfl_teams git:(master)`). Type `bundle install` to install the gem dependencies. 
+
+To start the app, simply type `bin/nfl_teams` and begin!
 
 ## Development
 

@@ -3,6 +3,8 @@ require_relative "nfl_teams/version"
 require 'pry'
 require 'nokogiri'
 require 'open-uri'
+require 'colorize'
+
 
 require_relative "nfl_teams/cli"
 require_relative "nfl_teams/scraper"

@@ -19,8 +19,8 @@ class NflTeams::Team
       game.team = self
     end
 
-    def find_schedule
-        NflTeams::Schedule.all.find {|schedule| schedule.team == self}
+    def clear_games
+        @games.clear
     end
 
 end
