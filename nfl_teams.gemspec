@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "nfl teams info"
   spec.description   = "nfl teams info"
-  spec.homepage      = "https://www.nfl.com/teams/"
+  spec.homepage      = "https://github.com/luzybry94/nfl_teams"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
