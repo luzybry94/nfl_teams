@@ -1,6 +1,6 @@
 require_relative "nfl_teams/version"
 
-require 'pry'
+# require 'pry'
 require 'nokogiri'
 require 'open-uri'
 require 'colorize'
